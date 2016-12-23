@@ -6,7 +6,7 @@ The script to generate results in the manuscript is [frailtySurv-jss.R](R/frailt
 
 To run as a background script and log the results:
 
-   $ nohup Rscript frailtySurv-jss.R > log 2> log.err < /dev/null
+    $ nohup Rscript frailtySurv-jss.R > log 2> log.err < /dev/null
 
 Data preprocessing scripts for the case studies are located in [code/python](python).
 
